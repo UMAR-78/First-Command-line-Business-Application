@@ -1,0 +1,4 @@
+pencils,10,4500,dollar
+shapner,5,900,kitta
+ink,3,90,oro
+ll,11,11,ll
